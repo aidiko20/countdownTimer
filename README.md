@@ -1,4 +1,4 @@
 # countdownTimer
 Simple JS countdown timer app
-![Image of Project]
+![alt text]
 (https://aidiko20.github.com/countdownTime/screenshot.png)
