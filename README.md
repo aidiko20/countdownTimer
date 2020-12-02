@@ -1,3 +1,3 @@
 # countdownTimer
 Simple JS countdown timer app
-![screenshot] (screenshot.png)
+![Alt text](relative/path/to/screenshot.png)
